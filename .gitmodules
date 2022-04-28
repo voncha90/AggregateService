@@ -1,0 +1,3 @@
+[submodule "AggregateService/sharedservices/SharedServices"]
+	path = AggregateService/sharedservices/SharedServices
+	url = https://github.com/voncha90/SharedServices.git
